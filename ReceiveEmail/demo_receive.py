@@ -1,5 +1,5 @@
 #import sys
-#sys.path.append('/Users/yangwang/Documents/ReceiveEmail')
+#sys.path.append('/.../ReceiveEmail')
 import imaplib
 import email
 import base64
